@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>19/258708/349688.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.39620681431756</north>
+          <south>51.39577839266317</south>
+          <east>-2.35862731933595</east>
+          <west>-2.35931396484376</west>
+        </LatLonAltBox>
+      </Region>
+      <GroundOverlay>
+        <drawOrder>38</drawOrder>
+        <Icon>
+          <href>http://maps.bathhacked.org/maps/1885/19/258708/349688.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>51.39620681431756</north>
+          <south>51.39577839266317</south>
+          <east>-2.35862731933595</east>
+          <west>-2.35931396484376</west>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+  </Document>
+</kml>

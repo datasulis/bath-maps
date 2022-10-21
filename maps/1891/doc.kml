@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Bath 1891</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+
+    <LookAt>
+      <longitude>-2.36102851403162</longitude>
+      <latitude>51.38499474967464</latitude>
+      <altitude>0</altitude>
+      <range>5167</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <NetworkLink>
+      <name>12/2020/2731.png</name>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.39920565355378</north>
+          <south>51.34433866059924</south>
+          <east>-2.37304687500000</east>
+          <west>-2.46093750000000</west>
+        </LatLonAltBox>
+      </Region>
+      <Link>
+        <href>http://maps.bathhacked.org/maps/1891/12/2020/2731.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>12/2021/2731.png</name>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.39920565355378</north>
+          <south>51.34433866059924</south>
+          <east>-2.28515625000000</east>
+          <west>-2.37304687500000</west>
+        </LatLonAltBox>
+      </Region>
+      <Link>
+        <href>http://maps.bathhacked.org/maps/1891/12/2021/2731.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>12/2021/2732.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.45400691005982</north>
+          <south>51.39920565355378</south>
+          <east>-2.28515625000000</east>
+          <west>-2.37304687500000</west>
+        </LatLonAltBox>
+      </Region>
+      <GroundOverlay>
+        <drawOrder>24</drawOrder>
+        <Icon>
+          <href>http://maps.bathhacked.org/maps/1795/12/2021/2732.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>51.45400691005982</north>
+          <south>51.39920565355378</south>
+          <east>-2.28515625000000</east>
+          <west>-2.37304687500000</west>
+        </LatLonBox>
+      </GroundOverlay>    <NetworkLink>
+      <name>13/4042/5464.png</name>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.42661449707482</north>
+          <south>51.39920565355378</south>
+          <east>-2.32910156250000</east>
+          <west>-2.37304687500000</west>
+        </LatLonAltBox>
+      </Region>
+      <Link>
+        <href>http://maps.bathhacked.org/maps/1795/13/4042/5464.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    </Folder>
+  </Document>
+</kml>

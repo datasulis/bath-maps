@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Historical Bath</name>
+	<open>1</open>
+	<description>Explore some of the history of Bath via videos, art works and pictures</description>
+	<Style id="icon-ci-13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-13_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-15_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-DB4436">
+		<IconStyle>
+			<color>ff3644db</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-E6EEA3">
+		<IconStyle>
+			<color>ffa3eee6</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-FFDD5E">
+		<IconStyle>
+			<color>ff5eddff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-4_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-3_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-9_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-4186F0">
+		<IconStyle>
+			<color>fff08641</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-A61B4A">
+		<IconStyle>
+			<color>ff4a1ba6</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-2_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-1_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-11_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-795046">
+		<IconStyle>
+			<color>ff465079</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-14_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-7_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-5_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-D698AD">
+		<IconStyle>
+			<color>ffad98d6</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-12_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-009D57">
+		<IconStyle>
+			<color>ff579d00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-3F5BA9">
+		<IconStyle>
+			<color>ffa95b3f</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-8_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-10_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-ci-6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>/home/ldodds/.googleearth/icon-6_1.png</href>
+			</Icon>
+			<hotSpot x="10" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-503-FAD199">
+		<IconStyle>
+			<color>ff99d1fa</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Historical Videos</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>1914-18: Dominion Press Visit Roman Baths</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-1</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=cyIva9EWz_M</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3593569,51.3809218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1914-18: Bath Celebrates Independence Day</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-2</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=LEiCI12SgKg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.359609,51.3813737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1917: Wedding of Richard Lloyds George</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-3</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=bslyvVOXFG0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3594427,51.3814072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1914-18: Bath&apos;s Famous Cure Resort</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-4</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=uEvM0HuxRLo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3592938,51.3809962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1914-18: Field Marshal French Opens Baths</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-5</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=8U6tw9X__yM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3595916,51.3813176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1924: Bath, Somerset</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-6</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=30Bj06lYYJ0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.359226800000001,51.3809586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1929: Abolish All Tolls</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-7</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=AtaIRmAOqP8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3558432,51.38948299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1942: Princess Elizabeth Takes Salute of 1000 Land Girls</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-8</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=bKtNv79E03w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3599872,51.38126069999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1950s: Bath in the 1950s</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-9</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=GPgtdtoLk04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3593542,51.3829833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1959: News in Flashes - Motorised Bath</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-10</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=TVeNxNUyT6I http://youtube.com/watch?v=TVeNxNUyT6I http://youtube.com/watch?v=TVeNxNUyT6I http://youtube.com/watch?v=TVeNxNUyT6I http://youtube.com/watch?v=TVeNxNUyT6I</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.359035,51.3817454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1960s: Bath in the 1960s</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-11</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=hrtK_McAl8A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.361213,51.38331560000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1961: Roman Feast</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-12</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=zezmSbDBgHE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3596546,51.380951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1963: Royal Engineers Build a Bridge</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-13</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=T99l9zBi95c http://youtube.com/watch?v=T99l9zBi95c</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3605853,51.3774797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1962: Princess and Margaret At &quot;Venice-on-Avon&quot;</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-14</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=d2Gkzq1WgHw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3597485,51.3813453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1967: Flower People</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-ci-15</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://youtube.com/watch?v=iR5cP02oO6I</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3563421,51.3855704,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paintings</name>
+		<open>1</open>
+		<Placemark>
+			<name>1790: Thomas Hearne, View of Bath from Spring Gardens</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1665234</description>
+			<styleUrl>#icon-503-4186F0</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://deliver.odai.yale.edu/content/id/44c6aa34-e4d8-4da7-856f-6c9606c2de1b/format/3</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3551297,51.3810222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1678: City of Bath, Francis Place</name>
+			<description>http://collections.britishart.yale.edu/vufind/Record/3647411</description>
+			<styleUrl>#icon-503-D698AD</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b01.deliver.odai.yale.edu/c2/07/c207ead5-12a8-4162-b16c-8d8480bfbaa5/ba-obj-11422-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.346375,51.3791874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1790?: Bathampton Mill, Francis Burney</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/3649914</description>
+			<styleUrl>#icon-503-A61B4A</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b02.deliver.odai.yale.edu/5f/e2/5fe26574-ede3-4760-93b7-a511ca040cf4/ba-obj-19478-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3260331,51.40051760000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1798: Gouty Persons Fall on Steep HIll, Thomas Rowlandson</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1669880</description>
+			<styleUrl>#icon-503-795046</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b02.deliver.odai.yale.edu/05/92/059275af-581f-4cd9-862a-ae10aeb969bf/ba-obj-5585-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3691416,51.38687430000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1798: The Breakfast &amp; The Ball, Thomas Rowlandson</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1669879  http://collections.britishart.yale.edu/vufind/Record/1669878  http://collections.britishart.yale.edu/vufind/Record/1669877</description>
+			<styleUrl>#icon-503-FAD199</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b03.deliver.odai.yale.edu/38/31/38312c27-d553-4400-b87a-6db0c8788f41/ba-obj-5584-0001-pub-large.jpg http://b03.deliver.odai.yale.edu/3d/ca/3dcae06f-bce3-4f19-a4d9-cc196215b849/ba-obj-5583-0001-pub-large.jpg http://b02.deliver.odai.yale.edu/53/33/5333bbd0-a2d9-4330-9107-99f50d56296d/ba-obj-5582-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3628491,51.3862349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1798: The Pump Room, Thomas Rowlandson</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1669867</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b01.deliver.odai.yale.edu/4f/fe/4ffea1d8-9fdd-47c3-99ff-42d6e3db6a2b/ba-obj-5574-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.360006,51.38115280000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1798: Coaches Arriving, Thomas Rowlandson</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1669866</description>
+			<styleUrl>#icon-503-FFDD5E</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b02.deliver.odai.yale.edu/17/b2/17b200de-dc64-4dc3-b3c5-43a02f87ceaa/ba-obj-5573-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3638469,51.385475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1798: The Concert, Thomas Rowlandson</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1669865</description>
+			<styleUrl>#icon-503-3F5BA9</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b03.deliver.odai.yale.edu/a5/aa/a5aa369d-47e7-48cb-a619-a0d5c04cd68d/ba-obj-5572-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3589733,51.3825807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1798: The Bath, Thomas Rowlandson</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/1668744</description>
+			<styleUrl>#icon-503-009D57</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b01.deliver.odai.yale.edu/2e/fb/2efbaac0-1396-4fa6-a104-101b0fb83a90/ba-obj-46554-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3598665,51.3810464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1784: North Parade, Humphrey Repton</name>
+			<visibility>0</visibility>
+			<description>http://collections.britishart.yale.edu/vufind/Record/3643433</description>
+			<styleUrl>#icon-503-E6EEA3</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>http://b01.deliver.odai.yale.edu/af/b4/afb4e526-6ab3-4438-a40f-1bdec3086f9e/ba-obj-2101-0001-pub-large.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3568758,51.38082630000001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>British Library Images</name>
+		<open>1</open>
+		<Placemark>
+			<name>1898: Interior, New Pump Room</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11295215043</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm3.staticflickr.com/2871/11295215043_d7e8f2cae4_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3600355,51.38115610000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Pump Rooms</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11295082165</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7400/11295082165_778dd51514_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3596144,51.3814256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Roman Baths</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11295119666</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm3.staticflickr.com/2880/11295119666_1dd9297b47_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3593086,51.3809435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Abbey</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11295084556</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm6.staticflickr.com/5543/11295084556_063ae6d0a8_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3591557,51.38210699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Baths</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11294976705</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm6.staticflickr.com/5521/11294976705_8399c21479_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3599443,51.38106569999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Victoria Park Obelisk</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11295105756</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm6.staticflickr.com/5540/11295105756_31c103f68b_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3727867,51.38584659999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Orange Grove</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11294866675</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3747/11294866675_a9eb5744e5_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3578307,51.3814691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Guildhall</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11294661964</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3723/11294661964_1a819fd95c_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3589224,51.381593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: St Saviour&apos;s Church</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11294435683</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3738/11294435683_6274364a6a_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3474908,51.3960127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Milsom Street</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11294414283</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3727/11294414283_df63beb2c7_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3611969,51.38314149999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Victoria Park Lake</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11294343804</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7291/11294343804_d7f2dee4d8_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3767698,51.3865111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Bath Abbey, West Front</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11293587906</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7422/11293587906_e65178a4cb_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3599188,51.3813168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Victoria Gate &amp; Obelisk, Park</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11293297916</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7397/11293297916_64343fdde0_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3710191,51.3858834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Technical Schools</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11293253764</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3742/11293253764_a4aa107b6f_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3593247,51.3827431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Victoria Park Dairy</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11293644394</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3757/11293644394_868b3b1475_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3719633,51.38631190000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Royal Crescent from Park Avenue</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11293015256</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3785/11293015256_ed2a284f0c_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3687285,51.38569589999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: St Mary&apos;s Church</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11292862336</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm6.staticflickr.com/5493/11292862336_2e4af50876_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3514014,51.3841024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Sham Castle</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11292738183</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3729/11292738183_d8f843b2c0_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3380709,51.3822141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: North Parade Bridge</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11292496415</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3780/11292496415_e4bc446c19_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3546684,51.3804128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: The Circus</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11292342965</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7372/11292342965_6d4b018bf1_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3644638,51.3860843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Victoria Park</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11292152153</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm6.staticflickr.com/5505/11292152153_02ee3bf3a8_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3676825,51.3856759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Blue Coat School</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11291889276</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7346/11291889276_28a79282e9_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3622993,51.3822292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1898: Parade Gardens</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11291834814</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7290/11291834814_75c7bfd449_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3559558,51.38175880000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1883: The Grand Pump Room Hotel</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11284190403</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3779/11284190403_fc1a733e06_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3602849,51.3813938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1675: Drawing of the King&apos;s and Queen&apos;s Bath</name>
+			<description>https://www.flickr.com/photos/britishlibrary/11161135283</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7330/11161135283_00b6f9e6fe_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3592335,51.38101880000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1800: Sketch of Milsom Street</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11160768745</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7307/11160768745_6a5ae471c1_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3619345,51.3848473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1812: Guildhall and Marketplace</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11219931155</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm4.staticflickr.com/3681/11219931155_10cbfa9aef_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3591933,51.3824568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1750: Bath Abbey Church and Wade&apos;s Passage</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11088418485</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm3.staticflickr.com/2846/11088418485_00e2b311c9_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3602903,51.38124319999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1830: Crescent, Bath</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11221660705</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm6.staticflickr.com/5500/11221660705_c3f7643272_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3697746,51.38688770000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1885: Bath from the River</name>
+			<visibility>0</visibility>
+			<description>https://www.flickr.com/photos/britishlibrary/11176249116</description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://farm8.staticflickr.com/7375/11176249116_4a7cb58716_z_d.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.3553658,51.38086149999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

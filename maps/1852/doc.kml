@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Bath 1852</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+
+    <LookAt>
+      <longitude>-2.36029023117799</longitude>
+      <latitude>51.37832089944697</latitude>
+      <altitude>0</altitude>
+      <range>8149</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <NetworkLink>
+      <name>11/1010/1365.png</name>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.39920565355378</north>
+          <south>51.28940590271679</south>
+          <east>-2.28515625000000</east>
+          <west>-2.46093750000000</west>
+        </LatLonAltBox>
+      </Region>
+      <Link>
+        <href>http://maps.bathhacked.org/maps/1852/11/1010/1365.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>11/1010/1366.png</name>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.50874245880333</north>
+          <south>51.39920565355378</south>
+          <east>-2.28515625000000</east>
+          <west>-2.46093750000000</west>
+        </LatLonAltBox>
+      </Region>
+      <Link>
+        <href>http://maps.bathhacked.org/maps/1852/11/1010/1366.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

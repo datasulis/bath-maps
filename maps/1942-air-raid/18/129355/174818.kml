@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>18/129355/174818.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.37435219392108</north>
+          <south>51.37349493730543</south>
+          <east>-2.35656738281252</east>
+          <west>-2.35794067382814</west>
+        </LatLonAltBox>
+      </Region>
+      <GroundOverlay>
+        <drawOrder>36</drawOrder>
+        <Icon>
+          <href>http://maps.bathhacked.org/maps/1942-air-raid/18/129355/174818.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>51.37435219392108</north>
+          <south>51.37349493730543</south>
+          <east>-2.35656738281252</east>
+          <west>-2.35794067382814</west>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+  </Document>
+</kml>

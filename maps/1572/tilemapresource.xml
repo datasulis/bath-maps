@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+	  <Title>Bath 1572</Title>
+	  <Abstract></Abstract>
+	  <SRS>EPSG:900913</SRS>
+	  <BoundingBox minx="51.37664244922255" miny="-2.36640628697740" maxx="51.38544693380528" maxy="-2.35076424295642"/>
+	  <Origin x="51.37664244922255" y="-2.36640628697740"/>
+	  <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+	  <TileSets profile="mercator">
+	    <TileSet href="http://maps.bathhacked.org/maps/1572/14" units-per-pixel="9.55462853393555" order="14"/>
+	    <TileSet href="http://maps.bathhacked.org/maps/1572/15" units-per-pixel="4.77731426696777" order="15"/>
+	    <TileSet href="http://maps.bathhacked.org/maps/1572/16" units-per-pixel="2.38865713348389" order="16"/>
+	    <TileSet href="http://maps.bathhacked.org/maps/1572/17" units-per-pixel="1.19432856674194" order="17"/>
+	    <TileSet href="http://maps.bathhacked.org/maps/1572/18" units-per-pixel="0.59716428337097" order="18"/>
+	  </TileSets>
+	</TileMap>
+	

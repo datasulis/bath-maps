@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>18/129353/174817.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>51.37349493730543</north>
+          <south>51.37263766463757</south>
+          <east>-2.35931396484376</east>
+          <west>-2.36068725585939</west>
+        </LatLonAltBox>
+      </Region>
+      <GroundOverlay>
+        <drawOrder>36</drawOrder>
+        <Icon>
+          <href>http://maps.bathhacked.org/maps/1942-bomb-sites/18/129353/174817.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>51.37349493730543</north>
+          <south>51.37263766463757</south>
+          <east>-2.35931396484376</east>
+          <west>-2.36068725585939</west>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+  </Document>
+</kml>

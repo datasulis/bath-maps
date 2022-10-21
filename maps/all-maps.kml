@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Bath Historical Maps</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<description>Bath has a long and interesting history. Historical maps can give us a window into that history, letting us explore how the city has changed and grown over the years. The earliest historical maps of the city date to the 16th and 17th century (the &quot;early modern&quot; period).
+
+This folder contains a series of Google Earth layers that let you explore maps of Bath from 1572-1942.
+
+http://maps.bathhacked.org/</description>
+	<Document>
+		<name>Bath 1572</name>
+		<visibility>0</visibility>
+		<description>This map of Bath claims to have been published in 1572, however it may actually have been published later in the early 1600s.
+
+The map was downloaded from the British Library collection on Flickr:
+
+https://www.flickr.com/photos/britishlibrary/11065675964
+
+The image was reprinted in a book in 1864 which contains additional notes and a legend:
+
+http://access.bl.uk/item/pdf/lsidyv359b5a8a
+
+This image is in the public domain.</description>
+		<LookAt>
+			<longitude>-2.35858526496691</longitude>
+			<latitude>51.38104469151391</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1404</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>14/8084/10926.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.3854950692232</north>
+					<south>51.37178037591739</south>
+					<east>-2.35107421874999</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1572/14/8084/10926.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>14/8085/10926.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.3854950692232</north>
+					<south>51.37178037591739</south>
+					<east>-2.3291015625</east>
+					<west>-2.35107421874999</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1572/14/8085/10926.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>Bath 1675</name>
+		<visibility>0</visibility>
+		<description>This map of Bath claims to have been published in 1572, however it may actually have been published later in the early 1600s.
+
+The map was downloaded from the British Library collection on Flickr:
+
+https://www.flickr.com/photos/britishlibrary/11164044313
+
+This image is in the public domain.</description>
+		<LookAt>
+			<longitude>-2.35982830601744</longitude>
+			<latitude>51.3808631146591</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1154</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>14/8084/10926.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.3854950692232</north>
+					<south>51.37178037591739</south>
+					<east>-2.35107421874999</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1675/14/8084/10926.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>Bath 1795</name>
+		<visibility>0</visibility>
+		<description>The Harcourt map of Bath 
+
+The image was downloaded from the British Library website:
+
+http://www.bl.uk/collection-items/plan-of-the-city-of-bath
+
+This image is in the public domain</description>
+		<LookAt>
+			<longitude>-2.35832054380591</longitude>
+			<latitude>51.3860258608563</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>4532</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>12/2020/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1795/12/2020/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1795/12/2021/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2020/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1795/12/2020/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1795/12/2021/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>Bath 1818</name>
+		<visibility>0</visibility>
+		<description>A New and Correct Plan of the City of Bath, reduced from a recent survey
+
+This map of Bath was downloaded from the British Library flickr collection:
+
+https://www.flickr.com/photos/britishlibrary/11005585513
+
+The image is in the public domain</description>
+		<LookAt>
+			<longitude>-2.35896598804694</longitude>
+			<latitude>51.385081463237</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>3590</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>13/4041/5463.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.37178037591739</south>
+					<east>-2.373046875</east>
+					<west>-2.4169921875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1818/13/4041/5463.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>13/4042/5463.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.37178037591739</south>
+					<east>-2.3291015625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1818/13/4042/5463.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>Bath 1852</name>
+		<visibility>0</visibility>
+		<description>Contains information released by permission of Bath and North East Somerset Council, Bath Records Office, under the Open Government Licence v2.0.
+http://www.batharchives.co.uk/
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</description>
+		<LookAt>
+			<longitude>-2.36029023117799</longitude>
+			<latitude>51.37832089944697</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>8149</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>11/1010/1365.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.28940590271679</south>
+					<east>-2.28515625</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1852/11/1010/1365.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>11/1010/1366.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.50874245880333</north>
+					<south>51.39920565355378</south>
+					<east>-2.28515625</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1852/11/1010/1366.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>Bath 1885</name>
+		<visibility>0</visibility>
+		<description>An 1885 Ordnance Survey map of Bath.
+
+Contains information released by permission of Bath and North East Somerset Council, Bath Records Office, under the Open Government Licence v2.0.
+http://www.batharchives.co.uk/
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</description>
+		<LookAt>
+			<longitude>-2.36495815065211</longitude>
+			<latitude>51.3843700673568</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>6476</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>12/2020/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1885/12/2020/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1885/12/2021/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2020/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1885/12/2020/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1885/12/2021/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>Bath 1891</name>
+		<visibility>0</visibility>
+		<description>This map of Bath was downloaded from the British Library collection on Flickr:
+
+https://www.flickr.com/photos/britishlibrary/11210061163
+
+The image is in the public domain</description>
+		<LookAt>
+			<longitude>-2.36102851403162</longitude>
+			<latitude>51.38499474967464</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>5167</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>12/2020/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1891/12/2020/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1891/12/2021/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>1942 Air Raid</name>
+		<visibility>0</visibility>
+		<description>Results of a 1942 survey of damage from the air raids on April 25th, 26th, 27th.
+
+The map is coloured coded based on the amount of damage.
+
+The key reads:
+
+Red - Totally destroyed
+Blue - So badly damaged that demolition is necessary
+Green - Seriously damaged but capable of repair. Still usable
+Yellow - Evacuated or to be evacuated pending repair
+Orange - General Damage, Slight
+Grey - General Damage, Glass Only
+
+Contains information released by permission of Bath and North East Somerset Council, Bath Records Office, under the Open Government Licence v2.0.
+http://www.batharchives.co.uk/
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</description>
+		<LookAt>
+			<longitude>-2.36909654779487</longitude>
+			<latitude>51.38704591242022</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>4401</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>12/2020/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-air-raid/12/2020/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-air-raid/12/2021/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2020/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-air-raid/12/2020/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-air-raid/12/2021/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+	<Document>
+		<name>1942 Bomb Sites</name>
+		<visibility>0</visibility>
+		<description>Results of a 1942 survey of damage from the air raids on April 25th, 26th, 27th.
+
+The map shows locations where bombs fell.
+
+Contains information released by permission of Bath and North East Somerset Council, Bath Records Office, under the Open Government Licence v2.0.
+http://www.batharchives.co.uk/
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</description>
+		<LookAt>
+			<longitude>-2.36912466984214</longitude>
+			<latitude>51.38717056613991</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>4161</range>
+		</LookAt>
+		<Style>
+			<ListStyle id="hideChildren">
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<NetworkLink>
+			<name>12/2020/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-bomb-sites/12/2020/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2731.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.39920565355378</north>
+					<south>51.34433866059924</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-bomb-sites/12/2021/2731.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2020/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.373046875</east>
+					<west>-2.4609375</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-bomb-sites/12/2020/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+		<NetworkLink>
+			<name>12/2021/2732.png</name>
+			<Region>
+				<LatLonAltBox>
+					<north>51.45400691005982</north>
+					<south>51.39920565355378</south>
+					<east>-2.28515625</east>
+					<west>-2.373046875</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Link>
+				<href>http://maps.bathhacked.org/maps/1942-bomb-sites/12/2021/2732.kml</href>
+				<viewRefreshMode>onRegion</viewRefreshMode>
+			</Link>
+		</NetworkLink>
+	</Document>
+</Folder>
+</kml>
