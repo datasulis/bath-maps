@@ -24,7 +24,7 @@
       <GroundOverlay>
         <drawOrder>36</drawOrder>
         <Icon>
-          <href>http://maps.bathhacked.org/maps/1885/18/129324/174812.png</href>
+          <href>https://maps.bathhacked.org/maps/1885/18/129324/174812.png</href>
         </Icon>
         <LatLonBox>
           <north>51.36920841344186</north>
@@ -47,7 +47,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1885/19/258648/349624.kml</href>
+        <href>https://maps.bathhacked.org/maps/1885/19/258648/349624.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
@@ -66,7 +66,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1885/19/258649/349624.kml</href>
+        <href>https://maps.bathhacked.org/maps/1885/19/258649/349624.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
@@ -85,7 +85,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1885/19/258648/349625.kml</href>
+        <href>https://maps.bathhacked.org/maps/1885/19/258648/349625.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
@@ -104,7 +104,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1885/19/258649/349625.kml</href>
+        <href>https://maps.bathhacked.org/maps/1885/19/258649/349625.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>

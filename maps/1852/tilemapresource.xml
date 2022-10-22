@@ -7,12 +7,12 @@
 	  <Origin x="51.34997910516553" y="-2.39614143691477"/>
 	  <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
 	  <TileSets profile="mercator">
-	    <TileSet href="http://maps.bathhacked.org/maps/1852/11" units-per-pixel="76.43702827148438" order="11"/>
-	    <TileSet href="http://maps.bathhacked.org/maps/1852/12" units-per-pixel="38.21851413574219" order="12"/>
-	    <TileSet href="http://maps.bathhacked.org/maps/1852/13" units-per-pixel="19.10925706787109" order="13"/>
-	    <TileSet href="http://maps.bathhacked.org/maps/1852/14" units-per-pixel="9.55462853393555" order="14"/>
-	    <TileSet href="http://maps.bathhacked.org/maps/1852/15" units-per-pixel="4.77731426696777" order="15"/>
-	    <TileSet href="http://maps.bathhacked.org/maps/1852/16" units-per-pixel="2.38865713348389" order="16"/>
+	    <TileSet href="https://maps.bathhacked.org/maps/1852/11" units-per-pixel="76.43702827148438" order="11"/>
+	    <TileSet href="https://maps.bathhacked.org/maps/1852/12" units-per-pixel="38.21851413574219" order="12"/>
+	    <TileSet href="https://maps.bathhacked.org/maps/1852/13" units-per-pixel="19.10925706787109" order="13"/>
+	    <TileSet href="https://maps.bathhacked.org/maps/1852/14" units-per-pixel="9.55462853393555" order="14"/>
+	    <TileSet href="https://maps.bathhacked.org/maps/1852/15" units-per-pixel="4.77731426696777" order="15"/>
+	    <TileSet href="https://maps.bathhacked.org/maps/1852/16" units-per-pixel="2.38865713348389" order="16"/>
 	  </TileSets>
 	</TileMap>
 	

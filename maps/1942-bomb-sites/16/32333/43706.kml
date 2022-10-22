@@ -24,7 +24,7 @@
       <GroundOverlay>
         <drawOrder>32</drawOrder>
         <Icon>
-          <href>http://maps.bathhacked.org/maps/1942-bomb-sites/16/32333/43706.png</href>
+          <href>https://maps.bathhacked.org/maps/1942-bomb-sites/16/32333/43706.png</href>
         </Icon>
         <LatLonBox>
           <north>51.38206678113058</north>
@@ -47,7 +47,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1942-bomb-sites/17/64667/87412.kml</href>
+        <href>https://maps.bathhacked.org/maps/1942-bomb-sites/17/64667/87412.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
@@ -66,7 +66,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1942-bomb-sites/17/64667/87413.kml</href>
+        <href>https://maps.bathhacked.org/maps/1942-bomb-sites/17/64667/87413.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>

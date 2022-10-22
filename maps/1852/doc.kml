@@ -32,7 +32,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1852/11/1010/1365.kml</href>
+        <href>https://maps.bathhacked.org/maps/1852/11/1010/1365.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
@@ -51,7 +51,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1852/11/1010/1366.kml</href>
+        <href>https://maps.bathhacked.org/maps/1852/11/1010/1366.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>

@@ -24,7 +24,7 @@
       <GroundOverlay>
         <drawOrder>32</drawOrder>
         <Icon>
-          <href>http://maps.bathhacked.org/maps/1942-air-raid/16/32333/43709.png</href>
+          <href>https://maps.bathhacked.org/maps/1942-air-raid/16/32333/43709.png</href>
         </Icon>
         <LatLonBox>
           <north>51.39235087498254</north>
@@ -47,7 +47,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1942-air-raid/17/64667/87418.kml</href>
+        <href>https://maps.bathhacked.org/maps/1942-air-raid/17/64667/87418.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
@@ -66,7 +66,7 @@
         </LatLonAltBox>
       </Region>
       <Link>
-        <href>http://maps.bathhacked.org/maps/1942-air-raid/17/64667/87419.kml</href>
+        <href>https://maps.bathhacked.org/maps/1942-air-raid/17/64667/87419.kml</href>
         <viewRefreshMode>onRegion</viewRefreshMode>
       </Link>
     </NetworkLink>
